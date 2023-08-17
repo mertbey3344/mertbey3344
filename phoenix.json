@@ -1,0 +1,27 @@
+{
+"enaltyetkili": "en_alt_yetkili_rol_ıd",
+
+"ankawelcometokenler": [
+    "welcome_bot_token1",
+    "welcome_bot_token2",
+    "welcome_bot_token3",
+    "welcome_bot_token4"
+],
+
+"welcomeseskanalları": [
+    "welcome_bot_ses_1",
+    "welcome_bot_ses_2",
+    "welcome_bot_ses_3",
+    "welcome_bot_ses_4"
+],
+
+"botdinliyor": [
+    "Anka Welcome",
+    "Welcome to Anka",
+    "Bu sistemi yaptırmak için phoenix.anka"
+    ]
+
+
+
+
+}
